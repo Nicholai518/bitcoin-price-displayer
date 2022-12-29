@@ -1,6 +1,6 @@
 # bitcoin-price-displayer
 
-Spring Boot web application which retrieves and displays the current price of NASDAQ.
+Spring Boot web application which retrieves and displays the current price of Bitcoin.
 
 ## Tech Stack
 - Intellij IDEA
