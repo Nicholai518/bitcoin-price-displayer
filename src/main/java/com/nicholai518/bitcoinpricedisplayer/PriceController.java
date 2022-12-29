@@ -30,6 +30,7 @@ public class PriceController {
             if(connection){
 
             }
+            
         } catch (MalformedURLException e) {
             throw new RuntimeException(e);
         } catch (IOException e) {
