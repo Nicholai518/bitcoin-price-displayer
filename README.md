@@ -14,7 +14,6 @@ Spring Boot web application which retrieves and displays the current price of Bi
 EX: Current price of Bitcoin is 16,842.80. A monthly subscription would current cost .0235 of Bitcoin
 
 ## Setup
-
 - Use Spring Initializr to begin set up: https://start.spring.io/ 
 	- Project: Maven
 	- Language: Java
