@@ -1,0 +1,11 @@
+1) Java HTTP request, using Eclipse, coindesk api
+https://www.youtube.com/watch?v=-A0nOlSPlmU
+API: https://api.coindesk.com/v1/bpi/currentprice.json
+
+- How to fix red dependencies
+   - right click project
+   - locate maven
+   - select reload projects
+
+
+
