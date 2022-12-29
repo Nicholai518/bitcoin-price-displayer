@@ -6,6 +6,7 @@ Spring Boot web application which retrieves and displays the current price of NA
 - Intellij IDEA
 - Java 17
 - Spring Boot
+- Coindesk API
 
 ## Motivation
 - Building Finance / Stock applications
