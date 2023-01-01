@@ -1,6 +1,6 @@
 # bitcoin-price-displayer
 
-Spring Boot web application which retrieves and displays the current price of Bitcoin.
+Spring Boot web application which retrieves and displays the current price of Bitcoin using the coindesk api.
 
 ## Tech Stack
 - Intellij IDEA
